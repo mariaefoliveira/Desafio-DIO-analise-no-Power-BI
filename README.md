@@ -10,7 +10,7 @@ A origem do projeto pode ser encontrado no repositório com a pasta de mesmo nom
 ------------
 
 
-> Ferramenta utilizada: [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) [![Power BI](https://img.shields.io/badge/Power_BI-F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+> Ferramenta utilizada: [![Power BI](https://img.shields.io/badge/Power_BI-F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
 
 
 
