@@ -1,4 +1,4 @@
-\# Desafio DIO no Power BI
+# Desafio DIO no Power BI
 
 
 
@@ -6,11 +6,11 @@ Esse repositório será voltado, está voltado para o desenvolvimento do desafio
 
 
 
-Obs: A pasta Módulo 1 está o arquivo power BI e como ele estava antes da resolução do desafio
+Obs: A pasta Módulo 1 está o arquivo power BI e como ele estava antes da resolução do desafio, e o arquivo "Desafio-Dashboard" foi o que eu produzi.
 
 
 
-> Ferramenta utilizada: 
+> Ferramenta utilizada: [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) [![Power BI](https://img.shields.io/badge/Power_BI-F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
 
 
 
@@ -18,15 +18,15 @@ Foi pedido para o desafio, que além de arrumar a parte estética do dashboard, 
 
 
 
-* Visual mapa 1: Soma de sales e unidades vendidas por país 
+- Visual mapa 1: Soma de sales e unidades vendidas por país 
 
 
 
-* Visual mapa 2: Soma de lucro (profit) por país 
+- Visual mapa 2: Soma de lucro (profit) por país 
 
 
 
-* Visual de pizza: Lucro por segmento 
+- Visual de pizza: Lucro por segmento 
 
 
 
@@ -34,11 +34,11 @@ E assim foi feito.
 
 
 
-\# Dashboard criado
+# Dashboard criado
 
 
 
-!\[Imagem do dashboard]()
+![Imagem do dashboard](https://github.com/mariaefoliveira/Desafio-DIO-analise-no-Power-BI/blob/main/Images/Desafio-Dashboard.png?raw=true)
 
 
 
@@ -46,13 +46,10 @@ Finalizando com a parte estética, assim ficou o antes e o depois:
 
 
 
-\# Antes e o Depois do Dashboard
+# Antes e o Depois do Dashboard
 
 
-
-|------------------------------|------------------------|
-
-|!\[Imagem do Dashboard antes]()|!\[Imagem do dashboard]()|
-
----------------------------------------------------------
-
+| Antes | Depois |
+| :---: | :---: |
+| ![Imagem do Dashboard antes](https://github.com/mariaefoliveira/Desafio-DIO-analise-no-Power-BI/blob/main/Images/Antes-1.png?raw=true) | ![Imagem do dashboard](https://github.com/mariaefoliveira/Desafio-DIO-analise-no-Power-BI/blob/main/Images/Depois-1.png?raw=true) |
+| ![Imagem do Dashboard antes](https://github.com/mariaefoliveira/Desafio-DIO-analise-no-Power-BI/blob/main/Images/Antes-2.png?raw=true) | ![Imagem do dashboard](https://github.com/mariaefoliveira/Desafio-DIO-analise-no-Power-BI/blob/main/Images/Depois-2.png?raw=true) |
