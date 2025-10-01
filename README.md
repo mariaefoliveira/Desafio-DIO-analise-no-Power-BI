@@ -4,11 +4,10 @@
 
 Esse repositório será voltado, está voltado para o desenvolvimento do desafio do bootcamp de Análise de dados da DIO, e ele é composto apenas com a resolução da 3ª página do Power BI, onde analiso o lucro por segmento e país.
 
-
-
 Obs: A pasta Módulo 1 está o arquivo power BI e como ele estava antes da resolução do desafio, e o arquivo "Desafio-Dashboard" foi o que eu produzi.
 A origem do projeto pode ser encontrado no repositório com a pasta de mesmo nome: https://github.com/julianazanelatto/power_bi_analyst
 
+------------
 
 
 > Ferramenta utilizada: [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) [![Power BI](https://img.shields.io/badge/Power_BI-F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
