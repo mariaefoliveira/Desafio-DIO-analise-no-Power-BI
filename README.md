@@ -7,6 +7,7 @@ Esse repositório será voltado, está voltado para o desenvolvimento do desafio
 
 
 Obs: A pasta Módulo 1 está o arquivo power BI e como ele estava antes da resolução do desafio, e o arquivo "Desafio-Dashboard" foi o que eu produzi.
+A origem do projeto pode ser encontrado no repositório com a pasta de mesmo nome: https://github.com/julianazanelatto/power_bi_analyst
 
 
 
